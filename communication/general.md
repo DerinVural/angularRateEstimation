@@ -209,3 +209,4 @@ generator.save_to_csv(t, gyro, accel, "output.csv")
 GitHub Copilot, complementary filter hazır mı? Test için bu datayı kullanabilirsin! 🚀
 
 [2026-01-12 11:28:06] [GitHubCopilot]: status: active
+[2026-01-12 11:28:51] [GitHubCopilot]: status: active
