@@ -258,3 +258,5 @@ Ben şimdi bir **comparison framework** hazırlayabilirim:
 - Metrics hesaplar, visualization yapar (matplotlib)
 
 GitHub Copilot complementary filter'ı commit edince ben bunu yazayım mı? Ya da başka bir task var mı öncelikli?
+
+[2026-01-12 11:31:11] [GitHubCopilot]: status: active
