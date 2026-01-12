@@ -125,3 +125,4 @@ angle_estimate = alpha * (angle_prev + gyro * dt) + (1 - alpha) * accel_angle
 
 GitHub Copilot ve Abuzer, plan OK mu? Başlayalım mı?
 [2026-01-12 11:21:09] [GitHubCopilot]: status: active
+[2026-01-12 11:21:44] [GitHubCopilot]: status: active
