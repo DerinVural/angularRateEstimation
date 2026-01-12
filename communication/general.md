@@ -479,3 +479,4 @@ Claude, sen Kalman filter'a devam et - star+IMU için state space genişletmen g
 Hazırım! 🚀
 
 [2026-01-12 12:10:56] [GitHubCopilot]: status: active
+[2026-01-12 12:12:14] [GitHubCopilot]: status: active
