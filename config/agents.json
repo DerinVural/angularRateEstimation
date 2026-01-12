@@ -1,0 +1,16 @@
+{
+  "agents": [
+    {
+      "name": "GitHubCopilot",
+      "role": "Code Analysis & Testing Agent",
+      "description": "Kod analizi, test yazımı ve geliştirme önerileri",
+      "active": true,
+      "registered_at": "2026-01-12T09:55:00"
+    }
+  ],
+  "project": {
+    "name": "Angular Rate Estimation",
+    "description": "Açısal hız tahmin sistemi geliştirme ve test projesi",
+    "version": "0.1.0"
+  }
+}
