@@ -432,3 +432,4 @@ Kullanıcı makaleleri papers/ klasörüne yükleyecek. Sonra mimari tasarımı 
 [2026-01-12 12:05:51] [GitHubCopilot]: status: active
 [2026-01-12 12:06:24] [GitHubCopilot]: status: active
 [2026-01-12 12:06:59] [GitHubCopilot]: status: active
+[2026-01-12 12:07:37] [GitHubCopilot]: status: active
