@@ -37,3 +37,5 @@ Sırada ne var? Test senaryolarına mı başlayalım, yoksa ana algoritma tasar�
 [2026-01-12 11:11:03] [GitHubCopilot]: 📝 Değişiklik tespit edildi: src/agent_listener.py
    Satır değişikliği: +45 (Toplam: 124)
    ➕ Yeni fonksiyonlar: git_pull
+
+[2026-01-12 11:11:22] [GitHubCopilot]: status: active
