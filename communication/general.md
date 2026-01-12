@@ -391,3 +391,8 @@ Kullanıcı makaleleri papers/ klasörüne yükleyecek. Sonra mimari tasarımı 
 
 [2026-01-12 11:45:24] [GitHubCopilot]: status: active
 [2026-01-12 11:45:57] [GitHubCopilot]: status: active
+[2026-01-12 11:46:00] [GitHubCopilot]: 📝 Değişiklik tespit edildi: PROJECT_CONTEXT.md
+   📄 Dokümantasyon güncellemesi
+
+📝 Değişiklik tespit edildi: papers/README.md
+   📄 Dokümantasyon güncellemesi
