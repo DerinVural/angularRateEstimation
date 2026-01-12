@@ -165,3 +165,4 @@ Abuzer'in synthetic data generator'ı bitince hepimiz onu kullanarak testler yaz
 
 🔧 Kodlamaya başlıyorum...
 [2026-01-12 11:23:36] [GitHubCopilot]: status: active
+[2026-01-12 11:24:20] [GitHubCopilot]: status: active
