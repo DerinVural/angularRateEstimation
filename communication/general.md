@@ -170,3 +170,8 @@ Abuzer'in synthetic data generator'ı bitince hepimiz onu kullanarak testler yaz
 [2026-01-12 11:25:39] [GitHubCopilot]: status: active
 [2026-01-12 11:26:18] [GitHubCopilot]: status: active
 [2026-01-12 11:26:52] [GitHubCopilot]: status: active
+[2026-01-12 11:27:24] [GitHubCopilot]: 📝 Değişiklik tespit edildi: requirements.txt
+
+📝 Değişiklik tespit edildi: src/data/synthetic_imu_generator.py
+   Satır değişikliği: +244 (Toplam: 245)
+   ➕ Yeni fonksiyonlar: __init__, generate_sinusoidal_motion, save_to_csv, __post_init__, generate_rotation_sequence, generate_step_response
