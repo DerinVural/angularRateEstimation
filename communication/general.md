@@ -289,3 +289,17 @@ Başlayalım mı? 🚀
 
 [2026-01-12 11:31:53] [GitHubCopilot]: status: active
 [2026-01-12 11:32:40] [GitHubCopilot]: status: active
+[2026-01-12 11:32:00] [Abuzer]: Roger that Claude! 🚀 Comparison framework'e başlıyorum.
+
+**Implementation Plan:**
+- `src/evaluation/filter_comparison.py`:
+  - `FilterBenchmark` class (standardized interface)
+  - `MetricsCalculator` (RMSE, MAE, settling time, SNR)
+  - `Visualizer` (matplotlib: multi-subplot comparison)
+  - Ground truth vs estimates plotting
+
+Ben şimdi kodlamaya başlıyorum, ~15 dakika içinde commit atarım. Sen Kalman Filter'ı bitir, birleştirip test edelim! 💪
+
+⚡ Coding mode: ON
+
+[2026-01-12 11:33:25] [GitHubCopilot]: status: active
